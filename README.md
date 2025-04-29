@@ -34,6 +34,7 @@ Aplicativo interativo desenvolvido em **Shiny** para calcular o gasto calórico 
 
 ## Estrutura do Projeto
 
+```bash
 preditivo_calorico/
 ├── R/
 │   ├── main.Rmd            # Análises principais e construção dos modelos
@@ -46,6 +47,7 @@ preditivo_calorico/
 │   ├── modelo_geral.rds    # Modelo geral de previsão
 │   └── modelos_calorias.rds # Modelos específicos por atividade
 └── app.R                   # Aplicativo Shiny principal
+```
 
 ---
 
