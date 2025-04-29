@@ -1,0 +1,997 @@
+atividade;peso;caloria;categoria;atividade_micro
+Cycling, mountain bike, bmx;59;502;moderado;Ciclismo
+Cycling, mountain bike, bmx;70;598;intenso;Ciclismo
+Cycling, mountain bike, bmx;82;695;intenso;Ciclismo
+Cycling, mountain bike, bmx;93;791;intenso;Ciclismo
+Cycling, <10 mph, leisure bicycling;59;236;leve;Ciclismo
+Cycling, <10 mph, leisure bicycling;70;281;leve;Ciclismo
+Cycling, <10 mph, leisure bicycling;82;327;moderado;Ciclismo
+Cycling, <10 mph, leisure bicycling;93;372;moderado;Ciclismo
+Cycling, >20 mph, racing;59;944;intenso;Ciclismo
+Cycling, >20 mph, racing;70;1126;intenso;Ciclismo
+Cycling, >20 mph, racing;82;1308;intenso;Ciclismo
+Cycling, >20 mph, racing;93;1489;intenso;Ciclismo
+Cycling, 10-11.9 mph, light;59;354;moderado;Ciclismo
+Cycling, 10-11.9 mph, light;70;422;moderado;Ciclismo
+Cycling, 10-11.9 mph, light;82;490;moderado;Ciclismo
+Cycling, 10-11.9 mph, light;93;558;moderado;Ciclismo
+Cycling, 12-13.9 mph, moderate;59;472;moderado;Ciclismo
+Cycling, 12-13.9 mph, moderate;70;563;intenso;Ciclismo
+Cycling, 12-13.9 mph, moderate;82;654;intenso;Ciclismo
+Cycling, 12-13.9 mph, moderate;93;745;intenso;Ciclismo
+Cycling, 14-15.9 mph, vigorous;59;590;intenso;Ciclismo
+Cycling, 14-15.9 mph, vigorous;70;704;intenso;Ciclismo
+Cycling, 14-15.9 mph, vigorous;82;817;intenso;Ciclismo
+Cycling, 14-15.9 mph, vigorous;93;931;intenso;Ciclismo
+Cycling, 16-19 mph, very fast, racing;59;708;intenso;Ciclismo
+Cycling, 16-19 mph, very fast, racing;70;844;intenso;Ciclismo
+Cycling, 16-19 mph, very fast, racing;82;981;intenso;Ciclismo
+Cycling, 16-19 mph, very fast, racing;93;1117;intenso;Ciclismo
+Unicycling;59;295;moderado;Ciclismo
+Unicycling;70;352;moderado;Ciclismo
+Unicycling;82;409;moderado;Ciclismo
+Unicycling;93;465;moderado;Ciclismo
+Stationary cycling, very light;59;177;leve;Ciclismo
+Stationary cycling, very light;70;211;leve;Ciclismo
+Stationary cycling, very light;82;245;leve;Ciclismo
+Stationary cycling, very light;93;279;leve;Ciclismo
+Stationary cycling, light;59;325;moderado;Ciclismo
+Stationary cycling, light;70;387;moderado;Ciclismo
+Stationary cycling, light;82;449;moderado;Ciclismo
+Stationary cycling, light;93;512;moderado;Ciclismo
+Stationary cycling, moderate;59;413;moderado;Ciclismo
+Stationary cycling, moderate;70;493;moderado;Ciclismo
+Stationary cycling, moderate;82;572;intenso;Ciclismo
+Stationary cycling, moderate;93;651;intenso;Ciclismo
+Stationary cycling, vigorous;59;620;intenso;Ciclismo
+Stationary cycling, vigorous;70;739;intenso;Ciclismo
+Stationary cycling, vigorous;82;858;intenso;Ciclismo
+Stationary cycling, vigorous;93;977;intenso;Ciclismo
+Stationary cycling, very vigorous;59;738;intenso;Ciclismo
+Stationary cycling, very vigorous;70;880;intenso;Ciclismo
+Stationary cycling, very vigorous;82;1022;intenso;Ciclismo
+Stationary cycling, very vigorous;93;1163;intenso;Ciclismo
+Calisthenics, vigorous, pushups, situps;59;472;moderado;Calistenia
+Calisthenics, vigorous, pushups, situps;70;563;intenso;Calistenia
+Calisthenics, vigorous, pushups, situps;82;654;intenso;Calistenia
+Calisthenics, vigorous, pushups, situps;93;745;intenso;Calistenia
+Calisthenics, light;59;207;leve;Calistenia
+Calisthenics, light;70;246;leve;Calistenia
+Calisthenics, light;82;286;moderado;Calistenia
+Calisthenics, light;93;326;moderado;Calistenia
+Circuit training, minimal rest;59;472;moderado;Circuito
+Circuit training, minimal rest;70;563;intenso;Circuito
+Circuit training, minimal rest;82;654;intenso;Circuito
+Circuit training, minimal rest;93;745;intenso;Circuito
+Weight lifting, body building, vigorous;59;354;moderado;Musculação
+Weight lifting, body building, vigorous;70;422;moderado;Musculação
+Weight lifting, body building, vigorous;82;490;moderado;Musculação
+Weight lifting, body building, vigorous;93;558;moderado;Musculação
+Weight lifting, light workout;59;177;leve;Musculação
+Weight lifting, light workout;70;211;leve;Musculação
+Weight lifting, light workout;82;245;leve;Musculação
+Weight lifting, light workout;93;279;leve;Musculação
+Health club exercise;59;325;moderado;Musculação
+Health club exercise;70;387;moderado;Musculação
+Health club exercise;82;449;moderado;Musculação
+Health club exercise;93;512;moderado;Musculação
+Stair machine;59;531;moderado;Escada
+Stair machine;70;633;intenso;Escada
+Stair machine;82;735;intenso;Escada
+Stair machine;93;838;intenso;Escada
+Rowing machine, light;59;207;leve;Remo
+Rowing machine, light;70;246;leve;Remo
+Rowing machine, light;82;286;moderado;Remo
+Rowing machine, light;93;326;moderado;Remo
+Rowing machine, moderate;59;413;moderado;Remo
+Rowing machine, moderate;70;493;moderado;Remo
+Rowing machine, moderate;82;572;intenso;Remo
+Rowing machine, moderate;93;651;intenso;Remo
+Rowing machine, vigorous;59;502;moderado;Remo
+Rowing machine, vigorous;70;598;intenso;Remo
+Rowing machine, vigorous;82;695;intenso;Remo
+Rowing machine, vigorous;93;791;intenso;Remo
+Rowing machine, very vigorous;59;708;intenso;Remo
+Rowing machine, very vigorous;70;844;intenso;Remo
+Rowing machine, very vigorous;82;981;intenso;Remo
+Rowing machine, very vigorous;93;1117;intenso;Remo
+Ski machine;59;413;moderado;Esqui
+Ski machine;70;493;moderado;Esqui
+Ski machine;82;572;intenso;Esqui
+Ski machine;93;651;intenso;Esqui
+Aerobics, low impact;59;295;moderado;Aeróbico
+Aerobics, low impact;70;352;moderado;Aeróbico
+Aerobics, low impact;82;409;moderado;Aeróbico
+Aerobics, low impact;93;465;moderado;Aeróbico
+Aerobics, high impact;59;413;moderado;Aeróbico
+Aerobics, high impact;70;493;moderado;Aeróbico
+Aerobics, high impact;82;572;intenso;Aeróbico
+Aerobics, high impact;93;651;intenso;Aeróbico
+Aerobics, step aerobics;59;502;moderado;Aeróbico
+Aerobics, step aerobics;70;598;intenso;Aeróbico
+Aerobics, step aerobics;82;695;intenso;Aeróbico
+Aerobics, step aerobics;93;791;intenso;Aeróbico
+Aerobics, general;59;384;moderado;Aeróbico
+Aerobics, general;70;457;moderado;Aeróbico
+Aerobics, general;82;531;moderado;Aeróbico
+Aerobics, general;93;605;intenso;Aeróbico
+Jazzercise;59;354;moderado;Dança
+Jazzercise;70;422;moderado;Dança
+Jazzercise;82;490;moderado;Dança
+Jazzercise;93;558;moderado;Dança
+Stretching, hatha yoga;59;236;leve;Yoga
+Stretching, hatha yoga;70;281;leve;Yoga
+Stretching, hatha yoga;82;327;moderado;Yoga
+Stretching, hatha yoga;93;372;moderado;Yoga
+Mild stretching;59;148;leve;Yoga
+Mild stretching;70;176;leve;Yoga
+Mild stretching;82;204;leve;Yoga
+Mild stretching;93;233;leve;Yoga
+Instructing aerobic class;59;354;moderado;Aeróbico
+Instructing aerobic class;70;422;moderado;Aeróbico
+Instructing aerobic class;82;490;moderado;Aeróbico
+Instructing aerobic class;93;558;moderado;Aeróbico
+Water aerobics;59;236;leve;Aeróbico
+Water aerobics;70;281;leve;Aeróbico
+Water aerobics;82;327;moderado;Aeróbico
+Water aerobics;93;372;moderado;Aeróbico
+Ballet, twist, jazz, tap;59;266;leve;Dança
+Ballet, twist, jazz, tap;70;317;moderado;Dança
+Ballet, twist, jazz, tap;82;368;moderado;Dança
+Ballet, twist, jazz, tap;93;419;moderado;Dança
+Ballroom dancing, slow;59;177;leve;Dança
+Ballroom dancing, slow;70;211;leve;Dança
+Ballroom dancing, slow;82;245;leve;Dança
+Ballroom dancing, slow;93;279;leve;Dança
+Ballroom dancing, fast;59;325;moderado;Dança
+Ballroom dancing, fast;70;387;moderado;Dança
+Ballroom dancing, fast;82;449;moderado;Dança
+Ballroom dancing, fast;93;512;moderado;Dança
+Running, 5 mph (12 minute mile);59;472;moderado;Corrida
+Running, 5 mph (12 minute mile);70;563;intenso;Corrida
+Running, 5 mph (12 minute mile);82;654;intenso;Corrida
+Running, 5 mph (12 minute mile);93;745;intenso;Corrida
+Running, 5.2 mph (11.5 minute mile);59;531;moderado;Corrida
+Running, 5.2 mph (11.5 minute mile);70;633;intenso;Corrida
+Running, 5.2 mph (11.5 minute mile);82;735;intenso;Corrida
+Running, 5.2 mph (11.5 minute mile);93;838;intenso;Corrida
+Running, 6 mph (10 min mile);59;590;intenso;Corrida
+Running, 6 mph (10 min mile);70;704;intenso;Corrida
+Running, 6 mph (10 min mile);82;817;intenso;Corrida
+Running, 6 mph (10 min mile);93;931;intenso;Corrida
+Running, 6.7 mph (9 min mile);59;649;intenso;Corrida
+Running, 6.7 mph (9 min mile);70;774;intenso;Corrida
+Running, 6.7 mph (9 min mile);82;899;intenso;Corrida
+Running, 6.7 mph (9 min mile);93;1024;intenso;Corrida
+Running, 7 mph (8.5 min mile);59;679;intenso;Corrida
+Running, 7 mph (8.5 min mile);70;809;intenso;Corrida
+Running, 7 mph (8.5 min mile);82;940;intenso;Corrida
+Running, 7 mph (8.5 min mile);93;1070;intenso;Corrida
+Running, 7.5mph (8 min mile);59;738;intenso;Corrida
+Running, 7.5mph (8 min mile);70;880;intenso;Corrida
+Running, 7.5mph (8 min mile);82;1022;intenso;Corrida
+Running, 7.5mph (8 min mile);93;1163;intenso;Corrida
+Running, 8 mph (7.5 min mile);59;797;intenso;Corrida
+Running, 8 mph (7.5 min mile);70;950;intenso;Corrida
+Running, 8 mph (7.5 min mile);82;1103;intenso;Corrida
+Running, 8 mph (7.5 min mile);93;1256;intenso;Corrida
+Running, 8.6 mph (7 min mile);59;826;intenso;Corrida
+Running, 8.6 mph (7 min mile);70;985;intenso;Corrida
+Running, 8.6 mph (7 min mile);82;1144;intenso;Corrida
+Running, 8.6 mph (7 min mile);93;1303;intenso;Corrida
+Running, 9 mph (6.5 min mile);59;885;intenso;Corrida
+Running, 9 mph (6.5 min mile);70;1056;intenso;Corrida
+Running, 9 mph (6.5 min mile);82;1226;intenso;Corrida
+Running, 9 mph (6.5 min mile);93;1396;intenso;Corrida
+Running, 10 mph (6 min mile);59;944;intenso;Corrida
+Running, 10 mph (6 min mile);70;1126;intenso;Corrida
+Running, 10 mph (6 min mile);82;1308;intenso;Corrida
+Running, 10 mph (6 min mile);93;1489;intenso;Corrida
+Running, 10.9 mph (5.5 min mile);59;1062;intenso;Corrida
+Running, 10.9 mph (5.5 min mile);70;1267;intenso;Corrida
+Running, 10.9 mph (5.5 min mile);82;1471;intenso;Corrida
+Running, 10.9 mph (5.5 min mile);93;1675;intenso;Corrida
+Running, cross country;59;531;moderado;Corrida
+Running, cross country;70;633;intenso;Corrida
+Running, cross country;82;735;intenso;Corrida
+Running, cross country;93;838;intenso;Corrida
+Running, general;59;472;moderado;Corrida
+Running, general;70;563;intenso;Corrida
+Running, general;82;654;intenso;Corrida
+Running, general;93;745;intenso;Corrida
+Running, on a track, team practice;59;590;intenso;Corrida
+Running, on a track, team practice;70;704;intenso;Corrida
+Running, on a track, team practice;82;817;intenso;Corrida
+Running, on a track, team practice;93;931;intenso;Corrida
+Running, stairs, up;59;885;intenso;Escada
+Running, stairs, up;70;1056;intenso;Escada
+Running, stairs, up;82;1226;intenso;Escada
+Running, stairs, up;93;1396;intenso;Escada
+Track and field (shot, discus);59;236;leve;Atletismo
+Track and field (shot, discus);70;281;leve;Atletismo
+Track and field (shot, discus);82;327;moderado;Atletismo
+Track and field (shot, discus);93;372;moderado;Atletismo
+Track and field (high jump, pole vault);59;354;moderado;Atletismo
+Track and field (high jump, pole vault);70;422;moderado;Atletismo
+Track and field (high jump, pole vault);82;490;moderado;Atletismo
+Track and field (high jump, pole vault);93;558;moderado;Atletismo
+Track and field (hurdles);59;590;intenso;Atletismo
+Track and field (hurdles);70;704;intenso;Atletismo
+Track and field (hurdles);82;817;intenso;Atletismo
+Track and field (hurdles);93;931;intenso;Atletismo
+Archery;59;207;leve;Tiro com arco
+Archery;70;246;leve;Tiro com arco
+Archery;82;286;moderado;Tiro com arco
+Archery;93;326;moderado;Tiro com arco
+Badminton;59;266;leve;Badminton
+Badminton;70;317;moderado;Badminton
+Badminton;82;368;moderado;Badminton
+Badminton;93;419;moderado;Badminton
+Basketball game, competitive;59;472;moderado;Basquete
+Basketball game, competitive;70;563;intenso;Basquete
+Basketball game, competitive;82;654;intenso;Basquete
+Basketball game, competitive;93;745;intenso;Basquete
+Playing basketball, non game;59;354;moderado;Basquete
+Playing basketball, non game;70;422;moderado;Basquete
+Playing basketball, non game;82;490;moderado;Basquete
+Playing basketball, non game;93;558;moderado;Basquete
+Basketball, officiating;59;413;moderado;Basquete
+Basketball, officiating;70;493;moderado;Basquete
+Basketball, officiating;82;572;intenso;Basquete
+Basketball, officiating;93;651;intenso;Basquete
+Basketball, shooting baskets;59;266;leve;Basquete
+Basketball, shooting baskets;70;317;moderado;Basquete
+Basketball, shooting baskets;82;368;moderado;Basquete
+Basketball, shooting baskets;93;419;moderado;Basquete
+Basketball, wheelchair;59;384;moderado;Basquete
+Basketball, wheelchair;70;457;moderado;Basquete
+Basketball, wheelchair;82;531;moderado;Basquete
+Basketball, wheelchair;93;605;intenso;Basquete
+Running, training, pushing wheelchair;59;472;moderado;Corrida
+Running, training, pushing wheelchair;70;563;intenso;Corrida
+Running, training, pushing wheelchair;82;654;intenso;Corrida
+Running, training, pushing wheelchair;93;745;intenso;Corrida
+Billiards;59;148;leve;Sinuca
+Billiards;70;176;leve;Sinuca
+Billiards;82;204;leve;Sinuca
+Billiards;93;233;leve;Sinuca
+Bowling;59;177;leve;Boliche
+Bowling;70;211;leve;Boliche
+Bowling;82;245;leve;Boliche
+Bowling;93;279;leve;Boliche
+Boxing, in ring;59;708;intenso;Luta
+Boxing, in ring;70;844;intenso;Luta
+Boxing, in ring;82;981;intenso;Luta
+Boxing, in ring;93;1117;intenso;Luta
+Boxing, punching bag;59;354;moderado;Luta
+Boxing, punching bag;70;422;moderado;Luta
+Boxing, punching bag;82;490;moderado;Luta
+Boxing, punching bag;93;558;moderado;Luta
+Boxing, sparring;59;531;moderado;Luta
+Boxing, sparring;70;633;intenso;Luta
+Boxing, sparring;82;735;intenso;Luta
+Boxing, sparring;93;838;intenso;Luta
+Coaching: football, basketball, soccer;59;236;leve;Basquete
+Coaching: football, basketball, soccer;70;281;leve;Basquete
+Coaching: football, basketball, soccer;82;327;moderado;Basquete
+Coaching: football, basketball, soccer;93;372;moderado;Basquete
+Cricket (batting, bowling);59;295;moderado;Boliche
+Cricket (batting, bowling);70;352;moderado;Boliche
+Cricket (batting, bowling);82;409;moderado;Boliche
+Cricket (batting, bowling);93;465;moderado;Boliche
+Croquet;59;148;leve;Cróquete
+Croquet;70;176;leve;Cróquete
+Croquet;82;204;leve;Cróquete
+Croquet;93;233;leve;Cróquete
+Curling;59;236;leve;Curling
+Curling;70;281;leve;Curling
+Curling;82;327;moderado;Curling
+Curling;93;372;moderado;Curling
+Darts (wall or lawn);59;148;leve;Dardos
+Darts (wall or lawn);70;176;leve;Dardos
+Darts (wall or lawn);82;204;leve;Dardos
+Darts (wall or lawn);93;233;leve;Dardos
+Fencing;59;354;moderado;Esgrima
+Fencing;70;422;moderado;Esgrima
+Fencing;82;490;moderado;Esgrima
+Fencing;93;558;moderado;Esgrima
+Football, competitive;59;531;moderado;Futebol americano
+Football, competitive;70;633;intenso;Futebol americano
+Football, competitive;82;735;intenso;Futebol americano
+Football, competitive;93;838;intenso;Futebol americano
+Football, touch, flag, general;59;472;moderado;Futebol americano
+Football, touch, flag, general;70;563;intenso;Futebol americano
+Football, touch, flag, general;82;654;intenso;Futebol americano
+Football, touch, flag, general;93;745;intenso;Futebol americano
+Football or baseball, playing catch;59;148;leve;Futebol americano
+Football or baseball, playing catch;70;176;leve;Futebol americano
+Football or baseball, playing catch;82;204;leve;Futebol americano
+Football or baseball, playing catch;93;233;leve;Futebol americano
+Frisbee playing, general;59;177;leve;Frisbee
+Frisbee playing, general;70;211;leve;Frisbee
+Frisbee playing, general;82;245;leve;Frisbee
+Frisbee playing, general;93;279;leve;Frisbee
+Frisbee, ultimate frisbee;59;472;moderado;Frisbee
+Frisbee, ultimate frisbee;70;563;intenso;Frisbee
+Frisbee, ultimate frisbee;82;654;intenso;Frisbee
+Frisbee, ultimate frisbee;93;745;intenso;Frisbee
+Golf, general;59;266;leve;Golfe
+Golf, general;70;317;moderado;Golfe
+Golf, general;82;368;moderado;Golfe
+Golf, general;93;419;moderado;Golfe
+Golf, walking and carrying clubs;59;266;leve;Golfe
+Golf, walking and carrying clubs;70;317;moderado;Golfe
+Golf, walking and carrying clubs;82;368;moderado;Golfe
+Golf, walking and carrying clubs;93;419;moderado;Golfe
+Golf, driving range;59;177;leve;Golfe
+Golf, driving range;70;211;leve;Golfe
+Golf, driving range;82;245;leve;Golfe
+Golf, driving range;93;279;leve;Golfe
+Golf, miniature golf;59;177;leve;Golfe
+Golf, miniature golf;70;211;leve;Golfe
+Golf, miniature golf;82;245;leve;Golfe
+Golf, miniature golf;93;279;leve;Golfe
+Golf, walking and pulling clubs;59;254;leve;Golfe
+Golf, walking and pulling clubs;70;303;moderado;Golfe
+Golf, walking and pulling clubs;82;351;moderado;Golfe
+Golf, walking and pulling clubs;93;400;moderado;Golfe
+Golf, using power cart;59;207;leve;Golfe
+Golf, using power cart;70;246;leve;Golfe
+Golf, using power cart;82;286;moderado;Golfe
+Golf, using power cart;93;326;moderado;Golfe
+Gymnastics;59;236;leve;Ginástica
+Gymnastics;70;281;leve;Ginástica
+Gymnastics;82;327;moderado;Ginástica
+Gymnastics;93;372;moderado;Ginástica
+Hacky sack;59;236;leve;Footbag
+Hacky sack;70;281;leve;Footbag
+Hacky sack;82;327;moderado;Footbag
+Hacky sack;93;372;moderado;Footbag
+Handball;59;708;intenso;Handebol
+Handball;70;844;intenso;Handebol
+Handball;82;981;intenso;Handebol
+Handball;93;1117;intenso;Handebol
+Handball, team;59;472;moderado;Handebol
+Handball, team;70;563;intenso;Handebol
+Handball, team;82;654;intenso;Handebol
+Handball, team;93;745;intenso;Handebol
+Hockey, field hockey;59;472;moderado;Hóquei
+Hockey, field hockey;70;563;intenso;Hóquei
+Hockey, field hockey;82;654;intenso;Hóquei
+Hockey, field hockey;93;745;intenso;Hóquei
+Hockey, ice hockey;59;472;moderado;Hóquei
+Hockey, ice hockey;70;563;intenso;Hóquei
+Hockey, ice hockey;82;654;intenso;Hóquei
+Hockey, ice hockey;93;745;intenso;Hóquei
+Riding a horse, general;59;236;leve;Hipismo
+Riding a horse, general;70;281;leve;Hipismo
+Riding a horse, general;82;327;moderado;Hipismo
+Riding a horse, general;93;372;moderado;Hipismo
+Horesback riding, saddling horse;59;207;leve;Hipismo
+Horesback riding, saddling horse;70;246;leve;Hipismo
+Horesback riding, saddling horse;82;286;moderado;Hipismo
+Horesback riding, saddling horse;93;326;moderado;Hipismo
+Horseback riding, grooming horse;59;207;leve;Hipismo
+Horseback riding, grooming horse;70;246;leve;Hipismo
+Horseback riding, grooming horse;82;286;moderado;Hipismo
+Horseback riding, grooming horse;93;326;moderado;Hipismo
+Horseback riding, trotting;59;384;moderado;Hipismo
+Horseback riding, trotting;70;457;moderado;Hipismo
+Horseback riding, trotting;82;531;moderado;Hipismo
+Horseback riding, trotting;93;605;intenso;Hipismo
+Horseback riding, walking;59;148;leve;Hipismo
+Horseback riding, walking;70;176;leve;Hipismo
+Horseback riding, walking;82;204;leve;Hipismo
+Horseback riding, walking;93;233;leve;Hipismo
+Horse racing, galloping;59;472;moderado;Hipismo
+Horse racing, galloping;70;563;intenso;Hipismo
+Horse racing, galloping;82;654;intenso;Hipismo
+Horse racing, galloping;93;745;intenso;Hipismo
+Horse grooming, moderate;59;354;moderado;Hipismo
+Horse grooming, moderate;70;422;moderado;Hipismo
+Horse grooming, moderate;82;490;moderado;Hipismo
+Horse grooming, moderate;93;558;moderado;Hipismo
+Horseshoe pitching;59;177;leve;Hipismo
+Horseshoe pitching;70;211;leve;Hipismo
+Horseshoe pitching;82;245;leve;Hipismo
+Horseshoe pitching;93;279;leve;Hipismo
+Jai alai;59;708;intenso;Jai alai
+Jai alai;70;844;intenso;Jai alai
+Jai alai;82;981;intenso;Jai alai
+Jai alai;93;1117;intenso;Jai alai
+Martial arts, judo, karate, jujitsu;59;590;intenso;Luta
+Martial arts, judo, karate, jujitsu;70;704;intenso;Luta
+Martial arts, judo, karate, jujitsu;82;817;intenso;Luta
+Martial arts, judo, karate, jujitsu;93;931;intenso;Luta
+Martial arts, kick boxing;59;590;intenso;Luta
+Martial arts, kick boxing;70;704;intenso;Luta
+Martial arts, kick boxing;82;817;intenso;Luta
+Martial arts, kick boxing;93;931;intenso;Luta
+Martial arts, tae kwan do;59;590;intenso;Luta
+Martial arts, tae kwan do;70;704;intenso;Luta
+Martial arts, tae kwan do;82;817;intenso;Luta
+Martial arts, tae kwan do;93;931;intenso;Luta
+Krav maga training;59;590;intenso;Luta
+Krav maga training;70;704;intenso;Luta
+Krav maga training;82;817;intenso;Luta
+Krav maga training;93;931;intenso;Luta
+Juggling;59;236;leve;Malabarismo
+Juggling;70;281;leve;Malabarismo
+Juggling;82;327;moderado;Malabarismo
+Juggling;93;372;moderado;Malabarismo
+Kickball;59;413;moderado;Kickball
+Kickball;70;493;moderado;Kickball
+Kickball;82;572;intenso;Kickball
+Kickball;93;651;intenso;Kickball
+Lacrosse;59;472;moderado;Lacrosse
+Lacrosse;70;563;intenso;Lacrosse
+Lacrosse;82;654;intenso;Lacrosse
+Lacrosse;93;745;intenso;Lacrosse
+Orienteering;59;531;moderado;Orientação
+Orienteering;70;633;intenso;Orientação
+Orienteering;82;735;intenso;Orientação
+Orienteering;93;838;intenso;Orientação
+Playing paddleball;59;354;moderado;Padel
+Playing paddleball;70;422;moderado;Padel
+Playing paddleball;82;490;moderado;Padel
+Playing paddleball;93;558;moderado;Padel
+Paddleball, competitive;59;590;intenso;Padel
+Paddleball, competitive;70;704;intenso;Padel
+Paddleball, competitive;82;817;intenso;Padel
+Paddleball, competitive;93;931;intenso;Padel
+Polo;59;472;moderado;Polo
+Polo;70;563;intenso;Polo
+Polo;82;654;intenso;Polo
+Polo;93;745;intenso;Polo
+Racquetball, competitive;59;590;intenso;Raquetebol
+Racquetball, competitive;70;704;intenso;Raquetebol
+Racquetball, competitive;82;817;intenso;Raquetebol
+Racquetball, competitive;93;931;intenso;Raquetebol
+Playing racquetball;59;413;moderado;Raquetebol
+Playing racquetball;70;493;moderado;Raquetebol
+Playing racquetball;82;572;intenso;Raquetebol
+Playing racquetball;93;651;intenso;Raquetebol
+Rock climbing, ascending rock;59;649;intenso;Escalada
+Rock climbing, ascending rock;70;774;intenso;Escalada
+Rock climbing, ascending rock;82;899;intenso;Escalada
+Rock climbing, ascending rock;93;1024;intenso;Escalada
+Rock climbing, rappelling;59;472;moderado;Escalada
+Rock climbing, rappelling;70;563;intenso;Escalada
+Rock climbing, rappelling;82;654;intenso;Escalada
+Rock climbing, rappelling;93;745;intenso;Escalada
+Jumping rope, fast;59;708;intenso;Pular corda
+Jumping rope, fast;70;844;intenso;Pular corda
+Jumping rope, fast;82;981;intenso;Pular corda
+Jumping rope, fast;93;1117;intenso;Pular corda
+Jumping rope, moderate;59;590;intenso;Pular corda
+Jumping rope, moderate;70;704;intenso;Pular corda
+Jumping rope, moderate;82;817;intenso;Pular corda
+Jumping rope, moderate;93;931;intenso;Pular corda
+Jumping rope, slow;59;472;moderado;Pular corda
+Jumping rope, slow;70;563;intenso;Pular corda
+Jumping rope, slow;82;654;intenso;Pular corda
+Jumping rope, slow;93;745;intenso;Pular corda
+Rugby;59;590;intenso;Rugby
+Rugby;70;704;intenso;Rugby
+Rugby;82;817;intenso;Rugby
+Rugby;93;931;intenso;Rugby
+Shuffleboard, lawn bowling;59;177;leve;Boliche
+Shuffleboard, lawn bowling;70;211;leve;Boliche
+Shuffleboard, lawn bowling;82;245;leve;Boliche
+Shuffleboard, lawn bowling;93;279;leve;Boliche
+Skateboarding;59;295;moderado;Skate
+Skateboarding;70;352;moderado;Skate
+Skateboarding;82;409;moderado;Skate
+Skateboarding;93;465;moderado;Skate
+Roller skating;59;413;moderado;Patinação
+Roller skating;70;493;moderado;Patinação
+Roller skating;82;572;intenso;Patinação
+Roller skating;93;651;intenso;Patinação
+Roller blading, in-line skating;59;708;intenso;Patinação
+Roller blading, in-line skating;70;844;intenso;Patinação
+Roller blading, in-line skating;82;981;intenso;Patinação
+Roller blading, in-line skating;93;1117;intenso;Patinação
+Sky diving;59;177;leve;Paraquedismo
+Sky diving;70;211;leve;Paraquedismo
+Sky diving;82;245;leve;Paraquedismo
+Sky diving;93;279;leve;Paraquedismo
+Soccer, competitive;59;590;intenso;Futebol
+Soccer, competitive;70;704;intenso;Futebol
+Soccer, competitive;82;817;intenso;Futebol
+Soccer, competitive;93;931;intenso;Futebol
+Playing soccer;59;413;moderado;Futebol
+Playing soccer;70;493;moderado;Futebol
+Playing soccer;82;572;intenso;Futebol
+Playing soccer;93;651;intenso;Futebol
+Softball or baseball;59;295;moderado;Beisebol
+Softball or baseball;70;352;moderado;Beisebol
+Softball or baseball;82;409;moderado;Beisebol
+Softball or baseball;93;465;moderado;Beisebol
+Softball, officiating;59;236;leve;Softball
+Softball, officiating;70;281;leve;Softball
+Softball, officiating;82;327;moderado;Softball
+Softball, officiating;93;372;moderado;Softball
+Softball, pitching;59;354;moderado;Softball
+Softball, pitching;70;422;moderado;Softball
+Softball, pitching;82;490;moderado;Softball
+Softball, pitching;93;558;moderado;Softball
+Squash;59;708;intenso;Squash
+Squash;70;844;intenso;Squash
+Squash;82;981;intenso;Squash
+Squash;93;1117;intenso;Squash
+Table tennis, ping pong;59;236;leve;Tênis
+Table tennis, ping pong;70;281;leve;Tênis
+Table tennis, ping pong;82;327;moderado;Tênis
+Table tennis, ping pong;93;372;moderado;Tênis
+Tai chi;59;236;leve;Luta
+Tai chi;70;281;leve;Luta
+Tai chi;82;327;moderado;Luta
+Tai chi;93;372;moderado;Luta
+Playing tennis;59;413;moderado;Tênis
+Playing tennis;70;493;moderado;Tênis
+Playing tennis;82;572;intenso;Tênis
+Playing tennis;93;651;intenso;Tênis
+Tennis, doubles;59;354;moderado;Tênis
+Tennis, doubles;70;422;moderado;Tênis
+Tennis, doubles;82;490;moderado;Tênis
+Tennis, doubles;93;558;moderado;Tênis
+Tennis, singles;59;472;moderado;Tênis
+Tennis, singles;70;563;intenso;Tênis
+Tennis, singles;82;654;intenso;Tênis
+Tennis, singles;93;745;intenso;Tênis
+Trampoline;59;207;leve;Trampolim
+Trampoline;70;246;leve;Trampolim
+Trampoline;82;286;moderado;Trampolim
+Trampoline;93;326;moderado;Trampolim
+Volleyball, competitive;59;472;moderado;Vôlei
+Volleyball, competitive;70;563;intenso;Vôlei
+Volleyball, competitive;82;654;intenso;Vôlei
+Volleyball, competitive;93;745;intenso;Vôlei
+Playing volleyball;59;177;leve;Vôlei
+Playing volleyball;70;211;leve;Vôlei
+Playing volleyball;82;245;leve;Vôlei
+Playing volleyball;93;279;leve;Vôlei
+Volleyball, beach;59;472;moderado;Vôlei
+Volleyball, beach;70;563;intenso;Vôlei
+Volleyball, beach;82;654;intenso;Vôlei
+Volleyball, beach;93;745;intenso;Vôlei
+Wrestling;59;354;moderado;Luta
+Wrestling;70;422;moderado;Luta
+Wrestling;82;490;moderado;Luta
+Wrestling;93;558;moderado;Luta
+Wallyball;59;413;moderado;Wallyball
+Wallyball;70;493;moderado;Wallyball
+Wallyball;82;572;intenso;Wallyball
+Wallyball;93;651;intenso;Wallyball
+Backpacking, Hiking with pack;59;413;moderado;Trilha
+Backpacking, Hiking with pack;70;493;moderado;Trilha
+Backpacking, Hiking with pack;82;572;intenso;Trilha
+Backpacking, Hiking with pack;93;651;intenso;Trilha
+Carrying infant, level ground;59;207;leve;Segurar bebê
+Carrying infant, level ground;70;246;leve;Segurar bebê
+Carrying infant, level ground;82;286;moderado;Segurar bebê
+Carrying infant, level ground;93;326;moderado;Segurar bebê
+Carrying infant, upstairs;59;295;moderado;Escada
+Carrying infant, upstairs;70;352;moderado;Escada
+Carrying infant, upstairs;82;409;moderado;Escada
+Carrying infant, upstairs;93;465;moderado;Escada
+Carrying 16 to 24 lbs, upstairs;59;354;moderado;Escada
+Carrying 16 to 24 lbs, upstairs;70;422;moderado;Escada
+Carrying 16 to 24 lbs, upstairs;82;490;moderado;Escada
+Carrying 16 to 24 lbs, upstairs;93;558;moderado;Escada
+Carrying 25 to 49 lbs, upstairs;59;472;moderado;Escada
+Carrying 25 to 49 lbs, upstairs;70;563;intenso;Escada
+Carrying 25 to 49 lbs, upstairs;82;654;intenso;Escada
+Carrying 25 to 49 lbs, upstairs;93;745;intenso;Escada
+Standing, playing with children, light;59;165;leve;Brincar com criança
+Standing, playing with children, light;70;197;leve;Brincar com criança
+Standing, playing with children, light;82;229;leve;Brincar com criança
+Standing, playing with children, light;93;261;leve;Brincar com criança
+Walk/run, playing with children, moderate;59;236;leve;Brincar com criança
+Walk/run, playing with children, moderate;70;281;leve;Brincar com criança
+Walk/run, playing with children, moderate;82;327;moderado;Brincar com criança
+Walk/run, playing with children, moderate;93;372;moderado;Brincar com criança
+Walk/run, playing with children, vigorous;59;295;moderado;Brincar com criança
+Walk/run, playing with children, vigorous;70;352;moderado;Brincar com criança
+Walk/run, playing with children, vigorous;82;409;moderado;Brincar com criança
+Walk/run, playing with children, vigorous;93;465;moderado;Brincar com criança
+Carrying small children;59;177;leve;Segurar bebê
+Carrying small children;70;211;leve;Segurar bebê
+Carrying small children;82;245;leve;Segurar bebê
+Carrying small children;93;279;leve;Segurar bebê
+Loading, unloading car;59;177;leve;Encher o carro
+Loading, unloading car;70;211;leve;Encher o carro
+Loading, unloading car;82;245;leve;Encher o carro
+Loading, unloading car;93;279;leve;Encher o carro
+Climbing hills, carrying up to 9 lbs;59;413;moderado;Escalada
+Climbing hills, carrying up to 9 lbs;70;493;moderado;Escalada
+Climbing hills, carrying up to 9 lbs;82;572;intenso;Escalada
+Climbing hills, carrying up to 9 lbs;93;651;intenso;Escalada
+Climbing hills, carrying 10 to 20 lb;59;443;moderado;Escalada
+Climbing hills, carrying 10 to 20 lb;70;528;moderado;Escalada
+Climbing hills, carrying 10 to 20 lb;82;613;intenso;Escalada
+Climbing hills, carrying 10 to 20 lb;93;698;intenso;Escalada
+Climbing hills, carrying 21 to 42 lb;59;472;moderado;Escalada
+Climbing hills, carrying 21 to 42 lb;70;563;intenso;Escalada
+Climbing hills, carrying 21 to 42 lb;82;654;intenso;Escalada
+Climbing hills, carrying 21 to 42 lb;93;745;intenso;Escalada
+Climbing hills, carrying over 42 lb;59;531;moderado;Escalada
+Climbing hills, carrying over 42 lb;70;633;intenso;Escalada
+Climbing hills, carrying over 42 lb;82;735;intenso;Escalada
+Climbing hills, carrying over 42 lb;93;838;intenso;Escalada
+Walking downstairs;59;177;leve;Escada
+Walking downstairs;70;211;leve;Escada
+Walking downstairs;82;245;leve;Escada
+Walking downstairs;93;279;leve;Escada
+Hiking, cross country;59;354;moderado;Trilha
+Hiking, cross country;70;422;moderado;Trilha
+Hiking, cross country;82;490;moderado;Trilha
+Hiking, cross country;93;558;moderado;Trilha
+Bird watching;59;148;leve;Assistir pássaros
+Bird watching;70;176;leve;Assistir pássaros
+Bird watching;82;204;leve;Assistir pássaros
+Bird watching;93;233;leve;Assistir pássaros
+Marching, rapidly, military;59;384;moderado;Marchar
+Marching, rapidly, military;70;457;moderado;Marchar
+Marching, rapidly, military;82;531;moderado;Marchar
+Marching, rapidly, military;93;605;intenso;Marchar
+Children's games, hopscotch, dodgeball;59;295;moderado;Queimada
+Children's games, hopscotch, dodgeball;70;352;moderado;Queimada
+Children's games, hopscotch, dodgeball;82;409;moderado;Queimada
+Children's games, hopscotch, dodgeball;93;465;moderado;Queimada
+Pushing stroller or walking with children;59;148;leve;Caminhada
+Pushing stroller or walking with children;70;176;leve;Caminhada
+Pushing stroller or walking with children;82;204;leve;Caminhada
+Pushing stroller or walking with children;93;233;leve;Caminhada
+Pushing a wheelchair;59;236;leve;Empurrar cadeira de rodas
+Pushing a wheelchair;70;281;leve;Empurrar cadeira de rodas
+Pushing a wheelchair;82;327;moderado;Empurrar cadeira de rodas
+Pushing a wheelchair;93;372;moderado;Empurrar cadeira de rodas
+Race walking;59;384;moderado;Caminhada
+Race walking;70;457;moderado;Caminhada
+Race walking;82;531;moderado;Caminhada
+Race walking;93;605;intenso;Caminhada
+Rock climbing, mountain climbing;59;472;moderado;Escalada
+Rock climbing, mountain climbing;70;563;intenso;Escalada
+Rock climbing, mountain climbing;82;654;intenso;Escalada
+Rock climbing, mountain climbing;93;745;intenso;Escalada
+Walking using crutches;59;295;moderado;Caminhada
+Walking using crutches;70;352;moderado;Caminhada
+Walking using crutches;82;409;moderado;Caminhada
+Walking using crutches;93;465;moderado;Caminhada
+Walking the dog;59;177;leve;Caminhada
+Walking the dog;70;211;leve;Caminhada
+Walking the dog;82;245;leve;Caminhada
+Walking the dog;93;279;leve;Caminhada
+Walking, under 2.0 mph, very slow;59;118;leve;Caminhada
+Walking, under 2.0 mph, very slow;70;141;leve;Caminhada
+Walking, under 2.0 mph, very slow;82;163;leve;Caminhada
+Walking, under 2.0 mph, very slow;93;186;leve;Caminhada
+Walking 2.0 mph, slow;59;148;leve;Caminhada
+Walking 2.0 mph, slow;70;176;leve;Caminhada
+Walking 2.0 mph, slow;82;204;leve;Caminhada
+Walking 2.0 mph, slow;93;233;leve;Caminhada
+Walking 2.5 mph;59;177;leve;Caminhada
+Walking 2.5 mph;70;211;leve;Caminhada
+Walking 2.5 mph;82;245;leve;Caminhada
+Walking 2.5 mph;93;279;leve;Caminhada
+Walking 3.0 mph, moderate;59;195;leve;Caminhada
+Walking 3.0 mph, moderate;70;232;leve;Caminhada
+Walking 3.0 mph, moderate;82;270;leve;Caminhada
+Walking 3.0 mph, moderate;93;307;moderado;Caminhada
+Walking 3.5 mph, brisk pace;59;224;leve;Caminhada
+Walking 3.5 mph, brisk pace;70;267;leve;Caminhada
+Walking 3.5 mph, brisk pace;82;311;moderado;Caminhada
+Walking 3.5 mph, brisk pace;93;354;moderado;Caminhada
+Walking 3.5 mph, uphill;59;354;moderado;Caminhada
+Walking 3.5 mph, uphill;70;422;moderado;Caminhada
+Walking 3.5 mph, uphill;82;490;moderado;Caminhada
+Walking 3.5 mph, uphill;93;558;moderado;Caminhada
+Walking 4.0 mph, very brisk;59;295;moderado;Caminhada
+Walking 4.0 mph, very brisk;70;352;moderado;Caminhada
+Walking 4.0 mph, very brisk;82;409;moderado;Caminhada
+Walking 4.0 mph, very brisk;93;465;moderado;Caminhada
+Walking 4.5 mph;59;372;moderado;Caminhada
+Walking 4.5 mph;70;443;moderado;Caminhada
+Walking 4.5 mph;82;515;moderado;Caminhada
+Walking 4.5 mph;93;586;intenso;Caminhada
+Walking 5.0 mph;59;472;moderado;Caminhada
+Walking 5.0 mph;70;563;intenso;Caminhada
+Walking 5.0 mph;82;654;intenso;Caminhada
+Walking 5.0 mph;93;745;intenso;Caminhada
+Boating, power, speed boat;59;148;leve;Canoa
+Boating, power, speed boat;70;176;leve;Canoa
+Boating, power, speed boat;82;204;leve;Canoa
+Boating, power, speed boat;93;233;leve;Canoa
+Canoeing, camping trip;59;236;leve;Canoa
+Canoeing, camping trip;70;281;leve;Canoa
+Canoeing, camping trip;82;327;moderado;Canoa
+Canoeing, camping trip;93;372;moderado;Canoa
+Canoeing, rowing, light;59;177;leve;Remo
+Canoeing, rowing, light;70;211;leve;Remo
+Canoeing, rowing, light;82;245;leve;Remo
+Canoeing, rowing, light;93;279;leve;Remo
+Canoeing, rowing, moderate;59;413;moderado;Remo
+Canoeing, rowing, moderate;70;493;moderado;Remo
+Canoeing, rowing, moderate;82;572;intenso;Remo
+Canoeing, rowing, moderate;93;651;intenso;Remo
+Canoeing, rowing, vigorous;59;708;intenso;Remo
+Canoeing, rowing, vigorous;70;844;intenso;Remo
+Canoeing, rowing, vigorous;82;981;intenso;Remo
+Canoeing, rowing, vigorous;93;1117;intenso;Remo
+Crew, sculling, rowing, competition;59;708;intenso;Remo
+Crew, sculling, rowing, competition;70;844;intenso;Remo
+Crew, sculling, rowing, competition;82;981;intenso;Remo
+Crew, sculling, rowing, competition;93;1117;intenso;Remo
+Kayaking;59;295;moderado;Canoa
+Kayaking;70;352;moderado;Canoa
+Kayaking;82;409;moderado;Canoa
+Kayaking;93;465;moderado;Canoa
+Paddle boat;59;236;leve;Canoa
+Paddle boat;70;281;leve;Canoa
+Paddle boat;82;327;moderado;Canoa
+Paddle boat;93;372;moderado;Canoa
+Windsurfing, sailing;59;177;leve;Canoa
+Windsurfing, sailing;70;211;leve;Canoa
+Windsurfing, sailing;82;245;leve;Canoa
+Windsurfing, sailing;93;279;leve;Canoa
+Sailing, competition;59;295;moderado;Canoa
+Sailing, competition;70;352;moderado;Canoa
+Sailing, competition;82;409;moderado;Canoa
+Sailing, competition;93;465;moderado;Canoa
+Sailing, yachting, ocean sailing;59;177;leve;Canoa
+Sailing, yachting, ocean sailing;70;211;leve;Canoa
+Sailing, yachting, ocean sailing;82;245;leve;Canoa
+Sailing, yachting, ocean sailing;93;279;leve;Canoa
+Skiing, water skiing;59;354;moderado;Esqui
+Skiing, water skiing;70;422;moderado;Esqui
+Skiing, water skiing;82;490;moderado;Esqui
+Skiing, water skiing;93;558;moderado;Esqui
+Ski mobiling;59;413;moderado;Esqui
+Ski mobiling;70;493;moderado;Esqui
+Ski mobiling;82;572;intenso;Esqui
+Ski mobiling;93;651;intenso;Esqui
+Skin diving, fast;59;944;intenso;Esqui
+Skin diving, fast;70;1126;intenso;Esqui
+Skin diving, fast;82;1308;intenso;Esqui
+Skin diving, fast;93;1489;intenso;Esqui
+Skin diving, moderate;59;738;intenso;Esqui
+Skin diving, moderate;70;880;intenso;Esqui
+Skin diving, moderate;82;1022;intenso;Esqui
+Skin diving, moderate;93;1163;intenso;Esqui
+Skin diving, scuba diving;59;413;moderado;Esqui
+Skin diving, scuba diving;70;493;moderado;Esqui
+Skin diving, scuba diving;82;572;intenso;Esqui
+Skin diving, scuba diving;93;651;intenso;Esqui
+Snorkeling;59;295;moderado;Mergulhar
+Snorkeling;70;352;moderado;Mergulhar
+Snorkeling;82;409;moderado;Mergulhar
+Snorkeling;93;465;moderado;Mergulhar
+Surfing, body surfing or board surfing;59;177;leve;Surfar
+Surfing, body surfing or board surfing;70;211;leve;Surfar
+Surfing, body surfing or board surfing;82;245;leve;Surfar
+Surfing, body surfing or board surfing;93;279;leve;Surfar
+Whitewater rafting, kayaking, canoeing;59;295;moderado;Canoa
+Whitewater rafting, kayaking, canoeing;70;352;moderado;Canoa
+Whitewater rafting, kayaking, canoeing;82;409;moderado;Canoa
+Whitewater rafting, kayaking, canoeing;93;465;moderado;Canoa
+Swimming laps, freestyle, fast;59;590;intenso;Nadar
+Swimming laps, freestyle, fast;70;704;intenso;Nadar
+Swimming laps, freestyle, fast;82;817;intenso;Nadar
+Swimming laps, freestyle, fast;93;931;intenso;Nadar
+Swimming laps, freestyle, slow;59;413;moderado;Nadar
+Swimming laps, freestyle, slow;70;493;moderado;Nadar
+Swimming laps, freestyle, slow;82;572;intenso;Nadar
+Swimming laps, freestyle, slow;93;651;intenso;Nadar
+Swimming backstroke;59;413;moderado;Nadar
+Swimming backstroke;70;493;moderado;Nadar
+Swimming backstroke;82;572;intenso;Nadar
+Swimming backstroke;93;651;intenso;Nadar
+Swimming breaststroke;59;590;intenso;Nadar
+Swimming breaststroke;70;704;intenso;Nadar
+Swimming breaststroke;82;817;intenso;Nadar
+Swimming breaststroke;93;931;intenso;Nadar
+Swimming butterfly;59;649;intenso;Nadar
+Swimming butterfly;70;774;intenso;Nadar
+Swimming butterfly;82;899;intenso;Nadar
+Swimming butterfly;93;1024;intenso;Nadar
+Swimming leisurely, not laps;59;354;moderado;Nadar
+Swimming leisurely, not laps;70;422;moderado;Nadar
+Swimming leisurely, not laps;82;490;moderado;Nadar
+Swimming leisurely, not laps;93;558;moderado;Nadar
+Swimming sidestroke;59;472;moderado;Nadar
+Swimming sidestroke;70;563;intenso;Nadar
+Swimming sidestroke;82;654;intenso;Nadar
+Swimming sidestroke;93;745;intenso;Nadar
+Swimming synchronized;59;472;moderado;Nadar
+Swimming synchronized;70;563;intenso;Nadar
+Swimming synchronized;82;654;intenso;Nadar
+Swimming synchronized;93;745;intenso;Nadar
+Swimming, treading water, fast, vigorous;59;590;intenso;Nadar
+Swimming, treading water, fast, vigorous;70;704;intenso;Nadar
+Swimming, treading water, fast, vigorous;82;817;intenso;Nadar
+Swimming, treading water, fast, vigorous;93;931;intenso;Nadar
+Swimming, treading water, moderate;59;236;leve;Nadar
+Swimming, treading water, moderate;70;281;leve;Nadar
+Swimming, treading water, moderate;82;327;moderado;Nadar
+Swimming, treading water, moderate;93;372;moderado;Nadar
+Water aerobics, water calisthenics;59;236;leve;Calistenia
+Water aerobics, water calisthenics;70;281;leve;Calistenia
+Water aerobics, water calisthenics;82;327;moderado;Calistenia
+Water aerobics, water calisthenics;93;372;moderado;Calistenia
+Water polo;59;590;intenso;Polo
+Water polo;70;704;intenso;Polo
+Water polo;82;817;intenso;Polo
+Water polo;93;931;intenso;Polo
+Water volleyball;59;177;leve;Vôlei
+Water volleyball;70;211;leve;Vôlei
+Water volleyball;82;245;leve;Vôlei
+Water volleyball;93;279;leve;Vôlei
+Water jogging;59;472;moderado;Corrida
+Water jogging;70;563;intenso;Corrida
+Water jogging;82;654;intenso;Corrida
+Water jogging;93;745;intenso;Corrida
+Diving, springboard or platform;59;177;leve;Mergulhar
+Diving, springboard or platform;70;211;leve;Mergulhar
+Diving, springboard or platform;82;245;leve;Mergulhar
+Diving, springboard or platform;93;279;leve;Mergulhar
+Ice skating, < 9 mph;59;325;moderado;Patinação
+Ice skating, < 9 mph;70;387;moderado;Patinação
+Ice skating, < 9 mph;82;449;moderado;Patinação
+Ice skating, < 9 mph;93;512;moderado;Patinação
+Ice skating, average speed;59;413;moderado;Patinação
+Ice skating, average speed;70;493;moderado;Patinação
+Ice skating, average speed;82;572;intenso;Patinação
+Ice skating, average speed;93;651;intenso;Patinação
+Ice skating, rapidly;59;531;moderado;Patinação
+Ice skating, rapidly;70;633;intenso;Patinação
+Ice skating, rapidly;82;735;intenso;Patinação
+Ice skating, rapidly;93;838;intenso;Patinação
+Speed skating, ice, competitive;59;885;intenso;Patinação
+Speed skating, ice, competitive;70;1056;intenso;Patinação
+Speed skating, ice, competitive;82;1226;intenso;Patinação
+Speed skating, ice, competitive;93;1396;intenso;Patinação
+Cross country snow skiing, slow;59;413;moderado;Esqui
+Cross country snow skiing, slow;70;493;moderado;Esqui
+Cross country snow skiing, slow;82;572;intenso;Esqui
+Cross country snow skiing, slow;93;651;intenso;Esqui
+Cross country skiing, moderate;59;472;moderado;Esqui
+Cross country skiing, moderate;70;563;intenso;Esqui
+Cross country skiing, moderate;82;654;intenso;Esqui
+Cross country skiing, moderate;93;745;intenso;Esqui
+Cross country skiing, vigorous;59;531;moderado;Esqui
+Cross country skiing, vigorous;70;633;intenso;Esqui
+Cross country skiing, vigorous;82;735;intenso;Esqui
+Cross country skiing, vigorous;93;838;intenso;Esqui
+Cross country skiing, racing;59;826;intenso;Esqui
+Cross country skiing, racing;70;985;intenso;Esqui
+Cross country skiing, racing;82;1144;intenso;Esqui
+Cross country skiing, racing;93;1303;intenso;Esqui
+Cross country skiing, uphill;59;974;intenso;Esqui
+Cross country skiing, uphill;70;1161;intenso;Esqui
+Cross country skiing, uphill;82;1348;intenso;Esqui
+Cross country skiing, uphill;93;1536;intenso;Esqui
+Snow skiing, downhill skiing, light;59;295;moderado;Esqui
+Snow skiing, downhill skiing, light;70;352;moderado;Esqui
+Snow skiing, downhill skiing, light;82;409;moderado;Esqui
+Snow skiing, downhill skiing, light;93;465;moderado;Esqui
+Downhill snow skiing, moderate;59;354;moderado;Esqui
+Downhill snow skiing, moderate;70;422;moderado;Esqui
+Downhill snow skiing, moderate;82;490;moderado;Esqui
+Downhill snow skiing, moderate;93;558;moderado;Esqui
+Downhill snow skiing, racing;59;472;moderado;Esqui
+Downhill snow skiing, racing;70;563;intenso;Esqui
+Downhill snow skiing, racing;82;654;intenso;Esqui
+Downhill snow skiing, racing;93;745;intenso;Esqui
+Sledding, tobagganing, luge;59;413;moderado;Trenó
+Sledding, tobagganing, luge;70;493;moderado;Trenó
+Sledding, tobagganing, luge;82;572;intenso;Trenó
+Sledding, tobagganing, luge;93;651;intenso;Trenó
+Snow shoeing;59;472;moderado;Raquete de neve
+Snow shoeing;70;563;intenso;Raquete de neve
+Snow shoeing;82;654;intenso;Raquete de neve
+Snow shoeing;93;745;intenso;Raquete de neve
+Snowmobiling;59;207;leve;Moto de neve
+Snowmobiling;70;246;leve;Moto de neve
+Snowmobiling;82;286;moderado;Moto de neve
+Snowmobiling;93;326;moderado;Moto de neve
+General housework;59;207;leve;Cuidar da casa
+General housework;70;246;leve;Cuidar da casa
+General housework;82;286;moderado;Cuidar da casa
+General housework;93;326;moderado;Cuidar da casa
+Cleaning gutters;59;295;moderado;Cuidar da casa
+Cleaning gutters;70;352;moderado;Cuidar da casa
+Cleaning gutters;82;409;moderado;Cuidar da casa
+Cleaning gutters;93;465;moderado;Cuidar da casa
+Painting;59;266;leve;Cuidar da casa
+Painting;70;317;moderado;Cuidar da casa
+Painting;82;368;moderado;Cuidar da casa
+Painting;93;419;moderado;Cuidar da casa
+Sit, playing with animals;59;148;leve;Brincar com pet
+Sit, playing with animals;70;176;leve;Brincar com pet
+Sit, playing with animals;82;204;leve;Brincar com pet
+Sit, playing with animals;93;233;leve;Brincar com pet
+Walk / run, playing with animals;59;236;leve;Brincar com pet
+Walk / run, playing with animals;70;281;leve;Brincar com pet
+Walk / run, playing with animals;82;327;moderado;Brincar com pet
+Walk / run, playing with animals;93;372;moderado;Brincar com pet
+Bathing dog;59;207;leve;Dar banho no cachorro
+Bathing dog;70;246;leve;Dar banho no cachorro
+Bathing dog;82;286;moderado;Dar banho no cachorro
+Bathing dog;93;326;moderado;Dar banho no cachorro
+Mowing lawn, walk, power mower;59;325;moderado;Cuidar da casa
+Mowing lawn, walk, power mower;70;387;moderado;Cuidar da casa
+Mowing lawn, walk, power mower;82;449;moderado;Cuidar da casa
+Mowing lawn, walk, power mower;93;512;moderado;Cuidar da casa
+Mowing lawn, riding mower;59;148;leve;Cuidar da casa
+Mowing lawn, riding mower;70;176;leve;Cuidar da casa
+Mowing lawn, riding mower;82;204;leve;Cuidar da casa
+Mowing lawn, riding mower;93;233;leve;Cuidar da casa
+Walking, snow blower;59;207;leve;Caminhada
+Walking, snow blower;70;246;leve;Caminhada
+Walking, snow blower;82;286;moderado;Caminhada
+Walking, snow blower;93;326;moderado;Caminhada
+Riding, snow blower;59;177;leve;Cuidar da casa
+Riding, snow blower;70;211;leve;Cuidar da casa
+Riding, snow blower;82;245;leve;Cuidar da casa
+Riding, snow blower;93;279;leve;Cuidar da casa
+Shoveling snow by hand;59;354;moderado;Cuidar da casa
+Shoveling snow by hand;70;422;moderado;Cuidar da casa
+Shoveling snow by hand;82;490;moderado;Cuidar da casa
+Shoveling snow by hand;93;558;moderado;Cuidar da casa
+Raking lawn;59;254;leve;Cuidar da casa
+Raking lawn;70;303;moderado;Cuidar da casa
+Raking lawn;82;351;moderado;Cuidar da casa
+Raking lawn;93;400;moderado;Cuidar da casa
+Gardening, general;59;236;leve;Cuidar da casa
+Gardening, general;70;281;leve;Cuidar da casa
+Gardening, general;82;327;moderado;Cuidar da casa
+Gardening, general;93;372;moderado;Cuidar da casa
+Bagging grass, leaves;59;236;leve;Cuidar da casa
+Bagging grass, leaves;70;281;leve;Cuidar da casa
+Bagging grass, leaves;82;327;moderado;Cuidar da casa
+Bagging grass, leaves;93;372;moderado;Cuidar da casa
+Watering lawn or garden;59;89;leve;Cuidar da casa
+Watering lawn or garden;70;106;leve;Cuidar da casa
+Watering lawn or garden;82;123;leve;Cuidar da casa
+Watering lawn or garden;93;140;leve;Cuidar da casa
+Weeding, cultivating garden;59;266;leve;Cuidar da casa
+Weeding, cultivating garden;70;317;moderado;Cuidar da casa
+Weeding, cultivating garden;82;368;moderado;Cuidar da casa
+Weeding, cultivating garden;93;419;moderado;Cuidar da casa
+Carpentry, general;59;207;leve;Cuidar da casa
+Carpentry, general;70;246;leve;Cuidar da casa
+Carpentry, general;82;286;moderado;Cuidar da casa
+Carpentry, general;93;326;moderado;Cuidar da casa
+Carrying heavy loads;59;472;moderado;Cuidar da casa
+Carrying heavy loads;70;563;intenso;Cuidar da casa
+Carrying heavy loads;82;654;intenso;Cuidar da casa
+Carrying heavy loads;93;745;intenso;Cuidar da casa
+Carrying moderate loads upstairs;59;472;moderado;Escada
+Carrying moderate loads upstairs;70;563;intenso;Escada
+Carrying moderate loads upstairs;82;654;intenso;Escada
+Carrying moderate loads upstairs;93;745;intenso;Escada
+General cleaning;59;207;leve;Cuidar da casa
+General cleaning;70;246;leve;Cuidar da casa
+General cleaning;82;286;moderado;Cuidar da casa
+General cleaning;93;326;moderado;Cuidar da casa
+Cleaning, dusting;59;148;leve;Cuidar da casa
+Cleaning, dusting;70;176;leve;Cuidar da casa
+Cleaning, dusting;82;204;leve;Cuidar da casa
+Cleaning, dusting;93;233;leve;Cuidar da casa
+Taking out trash;59;177;leve;Cuidar da casa
+Taking out trash;70;211;leve;Cuidar da casa
+Taking out trash;82;245;leve;Cuidar da casa
+Taking out trash;93;279;leve;Cuidar da casa
+Walking, pushing a wheelchair;59;236;leve;Caminhada
+Walking, pushing a wheelchair;70;281;leve;Caminhada
+Walking, pushing a wheelchair;82;327;moderado;Caminhada
+Walking, pushing a wheelchair;93;372;moderado;Caminhada
+Teach physical education,exercise class;59;236;leve;Treinador
+Teach physical education,exercise class;70;281;leve;Treinador
+Teach physical education,exercise class;82;327;moderado;Treinador
+Teach physical education,exercise class;93;372;moderado;Treinador
+Teach exercise classes (& participate);59;384;moderado;Treinador
+Teach exercise classes (& participate);70;457;moderado;Treinador
+Teach exercise classes (& participate);82;531;moderado;Treinador
+Teach exercise classes (& participate);93;605;intenso;Treinador
